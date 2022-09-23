@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Recipes-App
 
-> Description the project.
+> This is a simple app that shows African dishes and how to make them.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
 
 ## Live Demo (if available)
 
@@ -18,23 +16,44 @@
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+You will need the following on you machine to reproduce this project
+
+- Code editor preferebly Visual Studio Code (VScode).
+- Basic understanding of HTML, CSS Javascript languages
 
 ### Setup
+> To clone this repository, please follow the steps below:
 
-### Install
+### Clone Git Repository In GitHub
+* In the File menu, click Clone Repository.
+* Click the tab that corresponds to the location of the repository you want to clone. ...
+* Choose the repository you want to clone from the list.
+* Click Choose... and navigate to a local path where you want to clone the repository.
+* Click Clone.
 
-### Usage
+or
 
-### Run tests
+#### Clone Git Repository In Visual Studio Code
+* Open VSCode and select a folder where to download the Git project to (Ctrl + K wait a second Ctrl + O):
 
-### Deployment
+  > Top Menu -> Files -> Open Folder...
+
+* Start the terminal (Ctrl + `):
+
+  > Top Menu -> View-> Terminal.
+
+* Execute the git clone command in the terminal:
+
+  > PS C:> git clone https://github.com/path/to/repo.git
+
+#### Install
+* install VScode if you do not already have it.
+* Sass Compiler VS Code extension.
+
 
 
 
@@ -42,15 +61,10 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@Jowwy02](https://github.com/githubhandle)
+- Twitter: [@josephine_ukpe2](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
